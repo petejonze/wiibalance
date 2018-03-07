@@ -15,7 +15,7 @@ classdef WiiBalanceHUD < handle
 %
 % @See also:        
 %
-% @Earliest compatible Matlab version: v2008
+% @Earliest compatible Matlab version: v2012
 %
 % @Author:          Pete R Jones
 %

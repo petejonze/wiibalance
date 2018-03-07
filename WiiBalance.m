@@ -63,7 +63,7 @@ classdef WiiBalance < handle
     %   WiiBalance.runExample(1)
     %   WiiBalance.runExample(2)
     %
-    % Earliest compatible Matlab version: v2008
+    % Earliest compatible Matlab version: v2012
     %
     % Author:
     %   Pete R Jones <petejonze@gmail.com>
